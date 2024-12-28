@@ -1,5 +1,5 @@
 更新时间,#genre#
-2024-12-28 18:28:15,url
+2024-12-29 06:25:44,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -123,7 +123,6 @@ CCTV-17,http://60.2.190.206:4000/rtp/239.253.93.150:6318$组播源
 CCTV-17,http://222.129.139.229:8888/rtp/239.3.1.151:8144$组播源
 CCTV-17,http://123.138.22.30:9901/tsfile/live/0017_1.m3u8$订阅源
 CCTV-17,http://123.113.249.203:8888/udp/239.3.1.151:8144$订阅源
-CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001$订阅源
 
 📡卫视频道,#genre#
 广东卫视,http://61.136.172.236:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -368,6 +367,7 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 广州综合,http://119.32.12.32:2901/udp/224.1.100.36:11111$订阅源
 广州综合,http://14.19.168.64:4022/udp/239.253.43.71:5146$订阅源
 广州影视,http://14.19.168.64:4022/udp/239.253.43.73:5146$订阅源
+广州影视,http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4$订阅源
 广州竞赛,http://119.32.12.32:2901/udp/224.1.100.105:11111$订阅源
 广州竞赛,http://14.19.168.64:4022/udp/239.253.43.75:5146$订阅源
 江门综合,http://14.19.168.64:4022/udp/239.77.0.201:5146$订阅源
@@ -531,7 +531,6 @@ CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8$订阅源
 魅力足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8363&tk=e503191f8e20$订阅源
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8$订阅源
 快乐垂钓,http://220.249.114.102:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-快乐垂钓,http://www.furymax.top:85/rtp/239.69.1.142:10488$组播源
 快乐垂钓,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8625&tk=2aca1ad9a849$订阅源
 快乐垂钓,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8530&tk=e503191f8e20$订阅源
 
@@ -546,7 +545,6 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
 金鹰卡通,http://116.128.242.83:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 金鹰卡通,http://mom.cloudns.be:9901/tsfile/live/38727_1.m3u8?key=txiptv&playlive=1&authid=0$广东酒店源
 金鹰卡通,http://220.249.114.102:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-金鹰卡通,http://www.furymax.top:85/rtp/239.69.1.248:11130$组播源
 金鹰卡通,http://59.48.75.130:3052/tsfile/live/1006_1.m3u8$订阅源
 金鹰卡通,http://111.160.17.2:59901/tsfile/live/0001_33.m3u8$订阅源
 黑莓动画,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7068&tk=2aca1ad9a849$订阅源
@@ -555,9 +553,13 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源
 炫动卡通,http://nas.hssvm.com:8888/udp/225.1.1.62:5002$订阅源
 浙江少儿,http://183.136.148.214:9901/tsfile/live/1012_1.m3u8$订阅源
 浙江少儿,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7099&tk=2aca1ad9a849$订阅源
+河北少儿科教,http://60.7.56.33:4000/rtp/239.253.92.174:6004$组播源
+七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966$订阅源
+七龙珠,http://223.85.105.11/test-txdwk.flv.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8$订阅源
 海绵宝宝,http://jiaojirentv.top/2020/dy.php?id=7528160$订阅源
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8$订阅源
 猫和老鼠,http://huanqiuzhibo.cn/manifest/huya.php?id=11352879$订阅源
+蜡笔小新,http://cdn.jdshipin.com:8880/huya.php?id=11352970$订阅源
 
 🎮游戏频道,#genre#
 游戏风云,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9140&tk=2aca1ad9a849$订阅源
